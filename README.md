@@ -11,6 +11,9 @@ This is a bit more interesting, since I implemented the logistic regression myse
 ### Linear Regression
 This is the linear regression model once implemented by scikit-learn and once by myself. Used to do a regression on the boston housing dataset. Furthermore, I used regularization techniques to prevent overfitting.
 
+### Linear Regression GD
+This is the linear regression with gradient descent. Instead of computing the best weights directly, I use gradient descent as an optimization algorithm to get good weights to fit the line.
+
 ### Linear Discriminant Functions
 This notebook implements two algorithms to generate linear discriminant functions. One iterative algorithm with gradient descend (Perceptron Algorithm) and one using the pseudoinverse. Furthermore, I added visualizations and examples, so I hope the concept gets clear.
 
